@@ -53,19 +53,19 @@ As an example, the landing page to an unregistered account can potentially look 
 ## Team Members
 
 <div class='row'>
-    <div class="col">
+    <div class="col" align="center">
         <img src="https://github.com/rhysdhustin.png" width="150px" />
         <div>Rhys Dhustin Ocana</div>
     </div>
-    <div class="col">
+    <div class="col" align="center">
         <img src="https://github.com/longa2.png" width="150px" />
         <div>Allen Long</div>
     </div>
-    <div class="col">
+    <div class="col" align="center">
         <img src="https://github.com/loldylo.png" width="150px" />
         <div>Dylan Dela Cruz</div>
     </div>
-    <div class="col">
+    <div class="col" align="center">
         <img src="https://github.com/yilamulafeier.png" width="150px" />
         <div>Yilamu Lafeier</div>
     </div>
