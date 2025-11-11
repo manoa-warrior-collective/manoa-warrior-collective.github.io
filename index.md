@@ -52,34 +52,30 @@ As an example, the landing page to an unregistered account can potentially look 
 
 ## Team Members
 
-<div class='row'>
-    <div class="col-3" align="center">
-        <img src="https://github.com/rhysdhustin.png" width="150px" />
-    </div>
-    <div class="col-3" align="center">
-        <img src="https://github.com/longa2.png" width="150px" />
-    </div>
-    <div class="col-3" align="center">
-        <img src="https://github.com/loldylo.png" width="150px" />
-    </div>
-    <div class="col-3" align="center">
-        <img src="https://github.com/yilamulafeier.png" width="150px" />
-    </div>
-</div>
-<div class='row'>
-    <div class="col-3" align="center">
-        Rhys Dhustin Ocana
-    </div>
-    <div class="col-3" align="center">
-        Allen Long
-    </div>
-    <div class="col-3" align="center">
-        Dylan Dela Cruz
-    </div>
-    <div class="col-3" align="center">
-        Yilamu Lafeier
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.com/rhysdhustin.png" width="150px" />
+      <br />
+      Rhys Dhustin Ocana
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/longa2.png" width="150px" />
+      <br />
+      Allen Long
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/loldylo.png" width="150px" />
+      <br />
+      Dylan Dela Cruz
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/yilamulafeier.png" width="150px" />
+      <br />
+      Yilamu Lafeier
+    </td>
+  </tr>
+</table>
 
 ## Team Agreement
 
