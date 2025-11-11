@@ -57,8 +57,6 @@ As an example, the landing page to an unregistered account can potentially look 
         <img src="https://github.com/rhysdhustin.png" width="150px" />
     </div>
     <div class="col">
-    </div>
-    <div class="col">
         <img src="https://github.com/longa2.png" width="150px" />
     </div>
 </div>
