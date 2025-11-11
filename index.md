@@ -38,7 +38,9 @@ Admin features:
 
 ## Mockup Examples
 
-![Construction](images/Under_construction_icon-red.svg)
+![Landing Page Top](images/mockups/landingTop.png)
+![Landing Page Bottom](images/mockups/landingBottom.png)
+As an example, the landing page to an unregistered account can potentially look as such.
 
 ## Team Agreement
 As a guarantee that each team member is on track and is invested in this project, a team contract has been drafted. You can find the project [here](https://docs.google.com/document/d/1_5ayYJOEpRPB7yc-o9er692Hf58jUFygjcanW6NamCM/edit?usp=sharing).
