@@ -43,4 +43,4 @@ Admin features:
 As an example, the landing page to an unregistered account can potentially look as such.
 
 ## Team Agreement
-As a guarantee that each team member is on track and is invested in this project, a team contract has been drafted. You can find the project [here](https://docs.google.com/document/d/1_5ayYJOEpRPB7yc-o9er692Hf58jUFygjcanW6NamCM/edit?usp=sharing).
+As a guarantee that each team member is on track and is invested in this project, a team contract has been drafted. You can find the document [here](https://docs.google.com/document/d/1_5ayYJOEpRPB7yc-o9er692Hf58jUFygjcanW6NamCM/edit?usp=sharing).
