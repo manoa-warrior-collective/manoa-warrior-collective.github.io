@@ -52,7 +52,7 @@ As an example, the landing page to an unregistered account can potentially look 
 
 ## Team Members
 
-<table>
+<table border="0">
   <tr>
     <td align="center" width="25%">
       <img src="https://github.com/rhysdhustin.png" width="150px" />
