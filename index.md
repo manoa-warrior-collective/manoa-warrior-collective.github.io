@@ -52,10 +52,17 @@ As an example, the landing page to an unregistered account can potentially look 
 
 ## Team Members
 
-- Rhys Dhustin Ocana
-- Allen Long
-- Dylan Dela Cruz
-- Yilamu Lafeier
+![](https://github.com/rhysdhustin.png)
+Rhys Dhustin Ocana
+
+![](https://github.com/longa2.png)
+Allen Long
+
+![](https://github.com/loldylo.png)
+Dylan Dela Cruz
+
+![](https://github.com/yilamulafeier.png)
+Yilamu Lafeier
 
 ## Team Agreement
 
