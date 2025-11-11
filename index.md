@@ -52,16 +52,16 @@ As an example, the landing page to an unregistered account can potentially look 
 
 ## Team Members
 
-![](https://github.com/rhysdhustin.png)
+<img src="https://github.com/rhysdhustin.png" width="150px" />
 Rhys Dhustin Ocana
 
-![](https://github.com/longa2.png)
+<img src="https://github.com/longa2.png" width="150px" />
 Allen Long
 
-![](https://github.com/loldylo.png)
+<img src="https://github.com/loldylo.png" width="150px" />
 Dylan Dela Cruz
 
-![](https://github.com/yilamulafeier.png)
+<img src="https://github.com/yilamulafeier.png" width="150px" />
 Yilamu Lafeier
 
 ## Team Agreement
