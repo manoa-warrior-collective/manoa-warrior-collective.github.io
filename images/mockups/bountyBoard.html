@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bounty Board - Rainbow Reclamation</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        
+        .bounty-container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: rgba(255,255,255,0.95);
+            border-radius: 15px;
+            padding: 2rem;
+            backdrop-filter: blur(10px);
+        }
+        
+        .bounty-header {
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #333;
+        }
+        
+        .bounty-grid {
+            display: grid;
+            gap: 1.5rem;
+        }
+        
+        .bounty-item {
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            padding: 1.5rem;
+            transition: all 0.3s;
+            position: relative;
+        }
+        
+        .bounty-item:hover {
+            border-color: #667eea;
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .bounty-reward {
+            position: absolute;
+            top: -10px;
+            right: 15px;
+            background: #28a745;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+        
+        .bounty-title { font-size: 1.3rem; margin-bottom: 0.5rem; color: #333; }
+        .bounty-description { color: #666; margin-bottom: 1rem; }
+        .bounty-meta { display: flex; justify-content: space-between; align-items: center; }
+        .bounty-location { color: #667eea; font-weight: 500; }
+        .bounty-time { color: #999; font-size: 0.9rem; }
+        
+        .help-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .help-btn:hover {
+            background: #5a67d8;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="bounty-container">
+        <div class="bounty-header">
+            <h1>🏆 Bounty Board</h1>
+            <p>Help fellow students find their lost items and earn community recognition!</p>
+        </div>
+        
+        <div class="bounty-grid">
+            <div class="bounty-item">
+                <div class="bounty-reward">⭐ Recognition</div>
+                <h3 class="bounty-title">Lost Laptop Charger - MacBook Pro</h3>
+                <p class="bounty-description">Black charger with extension cord. Has a small "UH" sticker on the brick. Really need it for finals week!</p>
+                <div class="bounty-meta">
+                    <span class="bounty-location">📍 Hamilton Library - 3rd Floor</span>
+                    <span class="bounty-time">Posted 2 hours ago</span>
+                    <button class="help-btn">I Can Help!</button>
+                </div>
+            </div>
+            
+            <div class="bounty-item">
+                <div class="bounty-reward">🎁 $10 Reward</div>
+                <h3 class="bounty-title">Blue Water Bottle with Campus Center Sticker</h3>
+                <p class="bounty-description">Hydroflask bottle, royal blue color. Has a Campus Center dining sticker and my name "Sarah" written in Sharpie.</p>
+                <div class="bounty-meta">
+                    <span class="bounty-location">📍 Keller Hall - Room 202</span>
+                    <span class="bounty-time">Posted 4 hours ago</span>
+                    <button class="help-btn">I Can Help!</button>
+                </div>
+            </div>
+            
+            <div class="bounty-item">
+                <div class="bounty-reward">⭐ Recognition</div>
+                <h3 class="bounty-title">Car Keys with Rainbow Keychain</h3>
+                <p class="bounty-description">Toyota key fob with a small rainbow-colored keychain. Keys to blue 2019 Corolla. Last seen near Parking Structure 3.</p>
+                <div class="bounty-meta">
+                    <span class="bounty-location">📍 Parking Structure 3</span>
+                    <span class="bounty-time">Posted 1 day ago</span>
+                    <button class="help-btn">I Can Help!</button>
+                </div>
+            </div>
+            
+            <div class="bounty-item">
+                <div class="bounty-reward">🎁 $15 Reward</div>
+                <h3 class="bounty-title">Student ID Card - Engineering Student</h3>
+                <p class="bounty-description">UH Student ID for engineering major. Card has a small crack on the bottom right corner. Really need it to access labs!</p>
+                <div class="bounty-meta">
+                    <span class="bounty-location">📍 Holmes Hall - Near Cafeteria</span>
+                    <span class="bounty-time">Posted 1 day ago</span>
+                    <button class="help-btn">I Can Help!</button>
+                </div>
+            </div>
+            
+            <div class="bounty-item">
+                <div class="bounty-reward">⭐ Recognition</div>
+                <h3 class="bounty-title">Black Notebook - Biology Class Notes</h3>
+                <p class="bounty-description">Black Moleskine notebook filled with Biology 171 notes. Has my name on the inside cover. Contains a whole semester of work!</p>
+                <div class="bounty-meta">
+                    <span class="bounty-location">📍 Bilger Hall - Lecture Room B</span>
+                    <span class="bounty-time">Posted 2 days ago</span>
+                    <button class="help-btn">I Can Help!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.querySelectorAll('.help-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                this.textContent = '✅ Helping!';
+                this.style.background = '#28a745';
+                this.disabled = true;
+            });
+        });
+    </script>
+</body>
+</html>

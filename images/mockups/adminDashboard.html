@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rainbow Reclamation - Admin Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #2d3748 0%, #4a5568 100%);
+            min-height: 100vh;
+            color: white;
+        }
+        
+        .admin-header {
+            background: rgba(0,0,0,0.3);
+            padding: 1rem;
+            border-bottom: 2px solid #667eea;
+        }
+        
+        .dashboard {
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .stat-card {
+            background: rgba(255,255,255,0.1);
+            padding: 1.5rem;
+            border-radius: 10px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+        }
+        
+        .stat-number { font-size: 2rem; font-weight: bold; color: #667eea; }
+        
+        .admin-actions {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        
+        .action-card {
+            background: rgba(255,255,255,0.1);
+            padding: 2rem;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .btn {
+            padding: 0.75rem 1.5rem;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            margin: 0.5rem;
+            transition: all 0.3s;
+        }
+        
+        .btn:hover { background: #5a67d8; transform: translateY(-2px); }
+    </style>
+</head>
+<body>
+    <header class="admin-header">
+        <h1>🛡️ Admin Dashboard - Rainbow Reclamation</h1>
+    </header>
+    
+    <div class="dashboard">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number">42</div>
+                <div>Active Listings</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">156</div>
+                <div>Registered Users</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">23</div>
+                <div>Successful Matches</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">8</div>
+                <div>Pending Verification</div>
+            </div>
+        </div>
+        
+        <div class="admin-actions">
+            <div class="action-card">
+                <h3>📝 Create Official Posting</h3>
+                <p>Add new found items from the official Mānoa Lost & Found</p>
+                <button class="btn">New Posting</button>
+            </div>
+            <div class="action-card">
+                <h3>✅ Verify Submissions</h3>
+                <p>Review and approve user-submitted found items</p>
+                <button class="btn">Review Queue</button>
+            </div>
+            <div class="action-card">
+                <h3>📊 Analytics</h3>
+                <p>View platform usage statistics and success metrics</p>
+                <button class="btn">View Reports</button>
+            </div>
+            <div class="action-card">
+                <h3>👥 User Management</h3>
+                <p>Manage user accounts and permissions</p>
+                <button class="btn">Manage Users</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
