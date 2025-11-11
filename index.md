@@ -52,24 +52,24 @@ As an example, the landing page to an unregistered account can potentially look 
 
 ## Team Members
 
-<table>
-  <tr>
-    <td align="center" width="25%">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="25%" style="border: none;">
       <img src="https://github.com/rhysdhustin.png" width="150px" />
       <br />
       Rhys Dhustin Ocana
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border: none;">
       <img src="https://github.com/longa2.png" width="150px" />
       <br />
       Allen Long
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border: none;">
       <img src="https://github.com/loldylo.png" width="150px" />
       <br />
       Dylan Dela Cruz
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border: none;">
       <img src="https://github.com/yilamulafeier.png" width="150px" />
       <br />
       Yilamu Lafeier
