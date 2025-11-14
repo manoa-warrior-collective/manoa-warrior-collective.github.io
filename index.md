@@ -1,4 +1,4 @@
-# The Mānoa Warrior Collective
+# Rainbow Reclamation
 
 ## Contents
 
