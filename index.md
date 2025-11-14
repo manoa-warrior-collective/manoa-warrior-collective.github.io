@@ -77,6 +77,10 @@ As an example, the landing page to an unregistered account can potentially look 
   </tr>
 </table>
 
+## Coordination Strategy
+
+Our team plans to meet at least 3 times a week either in-person or through discord for 1-2 hours.
+
 ## Team Agreement
 
 As a guarantee that each team member is on track and is invested in this project, a team contract has been drafted. You can find the document [here](https://docs.google.com/document/d/1_5ayYJOEpRPB7yc-o9er692Hf58jUFygjcanW6NamCM/edit?usp=sharing).
