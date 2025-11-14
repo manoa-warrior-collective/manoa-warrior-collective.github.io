@@ -50,7 +50,7 @@ Admin features:
   - Interactive map with reported locations (future/beyond the basics)
 - and more
 
-![Landing Page Top](images/mockups/admin-dashboard.png)
+![Admin Dashboard](images/mockups/admin-dashboard.png)
 
 ## Team Members
 
