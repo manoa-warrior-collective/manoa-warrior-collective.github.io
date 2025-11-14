@@ -25,6 +25,10 @@ Rainbow Reclamation will be designed to initially only have offical postings fro
 User features:
 
 - Landing page (Shows most recent listings)
+
+![Landing Page Top](images/mockups/landingTop.png)
+![Landing Page Bottom](images/mockups/landingBottom.png)
+
 - Profile page (User)
   - Should contain basic student info (Name and department)
 - Create Missing Poster
@@ -32,6 +36,8 @@ User features:
   - Option to offer reqard (future/beyond the basics)
 - "Bounty" board
   - Requests for locates will appear here
+
+![Bounty Board Mockup](images/mockups/bounty-board-mockup.png)
 
 Admin features:
 
@@ -44,11 +50,7 @@ Admin features:
   - Interactive map with reported locations (future/beyond the basics)
 - and more
 
-## Mockup Examples
-
-![Landing Page Top](images/mockups/landingTop.png)
-![Landing Page Bottom](images/mockups/landingBottom.png)
-As an example, the landing page to an unregistered account can potentially look as such.
+![Landing Page Top](images/mockups/admin-dashboard.png)
 
 ## Team Members
 
