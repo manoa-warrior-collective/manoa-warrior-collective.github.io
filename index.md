@@ -2,11 +2,18 @@
 
 ## Contents
 
+- [Current Progress](#current-progress)
 - [The Rundown](#the-rundown)
   - [Goals](#goals)
 - [Projected Features](#projected-features)
 - [Mockup Examples](#mockup-examples)
 - [Team Agreement](#team-agreement)
+
+## Current Progress
+
+Our current progression in building this application can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/4).
+
+Our projected issues for the next stage of development can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/5).
 
 ## The Rundown
 
