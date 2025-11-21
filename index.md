@@ -24,14 +24,15 @@ Our projected issues for the next stage of development for M2 can be found [here
 User Features:
 
 - Landing page (User)
-  - Should contain basic introduction to the site
+  - Basic introduction to the site
+  - Overview of the website functionalities
   - Should contain a Sign Up feature at the bottom of the page
 
 ![Landing Page Top](images/updatemockups/landingpage-mockup.png)
 ![Landing Page Bottom](images/updatemockups/landingpage-mockup2.png)
 
 - Dashboard page
-  - Users can see the status of current lost items
+  - Users can see the status of their current lost items
   - Users can see items they found themseleves
   - Creates a button link to your lost item lists
 
@@ -103,8 +104,6 @@ Admin features:
 
 ![Admin Dashboard](images/mockups/admin-dashboard-mockup.png)
 
-## Current Mockup Features
-
 ## Team Members
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
@@ -139,3 +138,7 @@ Our team plans to meet at least 3 times a week either in-person or through disco
 ## Team Agreement
 
 As a guarantee that each team member is on track and is invested in this project, a team contract has been drafted. You can find the document [here](https://docs.google.com/document/d/1_5ayYJOEpRPB7yc-o9er692Hf58jUFygjcanW6NamCM/edit?usp=sharing).
+
+## GitHub
+
+Our GitHub organization [page](https://github.com/manoa-warrior-collective/).
