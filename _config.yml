@@ -5,7 +5,7 @@ show_downloads: false
 theme: jekyll-theme-slate
 github:
   is_project_page: true
-  repository_url: https://github.com/manoa-warrior-collective/
+  repository_url: https://github.com/manoa-warrior-collective/rainbow-reclamation
 gems:
   - jekyll-mentions
   - jekyll-remote-theme
