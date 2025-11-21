@@ -7,6 +7,8 @@
 - [The Rundown](#the-rundown)
   - [Goals](#goals)
 - [Projected Features](#projected-features)
+- [Risk & Management](#risk-&-mangement)
+- [Team Members](#team-members)
 - [Team Agreement](#team-agreement)
 
 ## Project Deployement
@@ -103,6 +105,43 @@ Admin features:
 - and more
 
 ![Admin Dashboard](images/mockups/admin-dashboard-mockup.png)
+
+## Risk & Management
+
+<table border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <th align="left" width="30%">Risk</th>
+    <th align="left" width="70%">Mitigation Strategy</th>
+  </tr>
+  <tr>
+    <td>1. Resource Constraints</td>
+    <td>Find consistent time to work</td>
+  </tr>
+  <tr>
+    <td>2. Poor Project Planning</td>
+    <td>Set Project Milestone dates</td>
+  </tr>
+  <tr>
+    <td>3. Poor Communication</td>
+    <td>Hold other team members accountable for meetings</td>
+  </tr>
+  <tr>
+    <td>4. Scope Creep</td>
+    <td>Focus on your set issues in the Milestone</td>
+  </tr>
+  <tr>
+    <td>5. Unclear Requirements</td>
+    <td>Sit down with group members to have a detail discussion</td>
+  </tr>
+  <tr>
+    <td>6. Technical Complexity</td>
+    <td>Break down issues into simpler tasks through discussion</td>
+  </tr>
+  <tr>
+    <td>7. Inadequate Team Skills</td>
+    <td>Discussion, Coding Aid, AI</td>
+  </tr>
+</table>
 
 ## Team Members
 
