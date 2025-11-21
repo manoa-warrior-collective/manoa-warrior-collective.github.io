@@ -2,15 +2,14 @@
 
 ## Contents
 
-- [Project Site](#project-site)
+- [Project Deployement](#project-deployment)
 - [Current Progress](#current-progress)
 - [The Rundown](#the-rundown)
   - [Goals](#goals)
 - [Projected Features](#projected-features)
-- [Mockup Examples](#mockup-examples)
 - [Team Agreement](#team-agreement)
 
-## Project Site
+## Project Deployement
 
 Rainbow Reclamation can be found [here](https://rainbow-reclamation.vercel.app/).
 
@@ -18,9 +17,47 @@ Please expect changes as it is currently in development.
 
 ## Current Progress
 
-Our current progression in building this application can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/4).
+Our current progression in building this application for M1 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/4).
 
-Our projected issues for the next stage of development can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/5).
+Our projected issues for the next stage of development for M2 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/5).
+
+User Features:
+
+- Landing page (User)
+  - Should contain basic introduction to the site
+  - Should contain a Sign Up feature at the bottom of the page
+
+![Landing Page Top](images/updatemockups/landingpage-mockup.png)
+![Landing Page Bottom](images/updatemockups/landingpage-mockup2.png)
+
+- Dashboard page
+  - Users can see the status of current lost items
+  - Users can see items they found themseleves
+  - Creates a button link to your lost item lists
+
+![Dashboard Page](images/updatemockups/userdashboard.png)
+
+- Browse Item
+  - Shows a page of the user's lost items and check has a claim button to verify item has been retrieved
+
+![Browse Item](images/updatemockups/browselist.png)
+
+- Report Page
+- User are able to upload the item name, the description, and a picture
+
+![Report Page](images/updatemockups/reportlost.png)
+
+Admin features:
+
+- Admin Dashboard
+  - Contain a list of users
+  - Verfiy and approve lost item reports
+  - Create new lost item posts
+  - Analytic data to show usage of website and success rate of finding reported lost items
+  - Manage user account standing
+  - Track current users, find items, post verification, lost items
+
+![Admin Dashboard](images/updatemockups/admindashboard.png)
 
 ## The Rundown
 
@@ -65,6 +102,8 @@ Admin features:
 - and more
 
 ![Admin Dashboard](images/mockups/admin-dashboard-mockup.png)
+
+## Current Mockup Features
 
 ## Team Members
 
