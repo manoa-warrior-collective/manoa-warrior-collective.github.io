@@ -19,9 +19,9 @@ Please expect changes as it is currently in development.
 
 ## Current Progress
 
-Our current progression in building this application for M1 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/4).
+Our current progression in building this application for M2 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/5).
 
-Our projected issues for the next stage of development for M2 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/5).
+Our projected issues for the next stage of development for M3 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/6).
 
 User Features:
 
