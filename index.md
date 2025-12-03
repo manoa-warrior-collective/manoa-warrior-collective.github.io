@@ -17,6 +17,8 @@ Please expect changes as it is currently in development.
 
 ## Current Progress
 
+![ci-badge](https://github.com/manoa-warrior-collective/rainbow-reclamation/workflows/ci-rainbow-reclamation/badge.svg)
+
 Our current progression in building this application for M2 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/5).
 
 Our projected issues for the next stage of development for M3 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/6).
