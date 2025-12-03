@@ -28,11 +28,19 @@ Our projected issues for the next stage of development for M3 can be found [here
 - Landing page (User)
   - Basic introduction to the site
   - Overview of the website functionalities
+  - Buttons to report lost items or to browse items
   - Should contain a Sign Up feature at the bottom of the page
 
 ![Landing Page Top](images/m2update/landpagem2.png)
 ![Landing Page Middle](images/m2update/landingpagem2mid.png)
 ![Landing Page Bottom](images/m2update/landingpagem2bot.png)
+
+- Footer
+  - Contains locations, dates, and times when the offices are open
+  - Contains contact information
+  - Contains where to retieve lost items
+
+  ![Footer](images/m2update/footerm2.png)
 
 - Dashboard page
   - Users can see the status of their current lost items
@@ -43,13 +51,26 @@ Our projected issues for the next stage of development for M3 can be found [here
 
 - Browse Item
   - Shows a page of the user's lost items and check has a claim button to verify item has been retrieved
+  - Clicking on claim button redirect users to recovery instruction page
 
 ![Browse Item](images/m2update/browseitem.png)
 
-- Report Page
-- User are able to upload the item name, the description, and a picture
+- Recovery Instruction Page
+  - Contains steps to how retieve lost item
+  - Contains location dates, and times when the offices are open and where to retieve lost items
+  - Contains contact information
+  - Contains important side notes
+    - How long the item will be held and any pershiable items will held up to 48 hours
+    - Any high values needs an id verification
+    - If someone else is picking up the item, they need a written authorization to pickup said item
 
-![Report Page](images/updatemockups/reportlost.png)
+![Recovery Page Top](images/m2update/recoverym2Top.png)
+![Recovery Page Bottom](images/m2update/recoverym2Bot.png)
+
+- Report Page
+  - User are able to upload the item name, the description, and a picture
+
+![Report Page](images/m2update/reportm2.png)
 
 Admin features:
 
@@ -58,9 +79,9 @@ Admin features:
   - Create new lost item posts
   - Analytic data to show usage of website and success rate of finding reported lost items
   - Manage user account standing
-  - Track current users, find items, post verification, lost items
+  - Track current users, find items, and lost items
 
-![Admin Dashboard](images/updatemockups/admindashboard.png)
+![Admin Dashboard](images/m2update/adminm2.png)
 
 ## Developer Guide
 
