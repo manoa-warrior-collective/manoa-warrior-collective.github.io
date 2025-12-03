@@ -1,5 +1,3 @@
-# Rainbow Reclamation
-
 ## Contents
 
 - [Project Deployement](#project-deployment)
