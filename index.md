@@ -21,7 +21,7 @@ Our current progression in building this application for M2 can be found [here](
 
 Our projected issues for the next stage of development for M3 can be found [here](https://github.com/orgs/manoa-warrior-collective/projects/6).
 
-User Features:
+## User Guide
 
 - Landing page (User)
   - Basic introduction to the site
@@ -59,6 +59,11 @@ Admin features:
   - Track current users, find items, post verification, lost items
 
 ![Admin Dashboard](images/updatemockups/admindashboard.png)
+
+
+## Developer Guide
+
+
 
 ## The Rundown
 
