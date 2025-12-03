@@ -30,8 +30,9 @@ Our projected issues for the next stage of development for M3 can be found [here
   - Overview of the website functionalities
   - Should contain a Sign Up feature at the bottom of the page
 
-![Landing Page Top](images/updatemockups/landingpage-mockup.png)
-![Landing Page Bottom](images/updatemockups/landingpage-mockup2.png)
+![Landing Page Top](images/m2update/landpagem2.png)
+![Landing Page Middle](images/m2update/landingpagem2mid.png)
+![Landing Page Bottom](images/m2update/landingpagem2bot.png)
 
 - Dashboard page
   - Users can see the status of their current lost items
@@ -43,7 +44,7 @@ Our projected issues for the next stage of development for M3 can be found [here
 - Browse Item
   - Shows a page of the user's lost items and check has a claim button to verify item has been retrieved
 
-![Browse Item](images/updatemockups/browselist.png)
+![Browse Item](images/m2update/browseitem.png)
 
 - Report Page
 - User are able to upload the item name, the description, and a picture
@@ -54,7 +55,6 @@ Admin features:
 
 - Admin Dashboard
   - Contain a list of users
-  - Verfiy and approve lost item reports
   - Create new lost item posts
   - Analytic data to show usage of website and success rate of finding reported lost items
   - Manage user account standing
@@ -62,10 +62,7 @@ Admin features:
 
 ![Admin Dashboard](images/updatemockups/admindashboard.png)
 
-
 ## Developer Guide
-
-
 
 ## The Rundown
 
@@ -76,40 +73,6 @@ The Mānoa Warrior Collective presents Rainbow Reclamation: a projected web appl
 Nothing is lost forever. We're here to prove that. Rainbow Reclamation is projected to be an all in one virtual lost and found client. Students, faculty, and staff all have much more important things to worry about (like what flavor of cup noodles will be for dinner) than lost property.
 
 To save you an extra trip to the DMV for that dang ID you lost, the next section will detail how we intend on safekeeping lost items.
-
-## Projected Features
-
-Rainbow Reclamation will be designed to initially only have offical postings from the Manoa lost and found for security reasons. As the project grows, a verification system for user submitted lost goods will be explored.
-
-User features:
-
-- Landing page (Shows most recent listings)
-
-![Landing Page Top](images/mockups/landingTop.png)
-![Landing Page Bottom](images/mockups/landingBottom.png)
-
-- Profile page (User)
-  - Should contain basic student info (Name and department)
-- Create Missing Poster
-  - Users can create requests to locate lost items
-  - Option to offer reqard (future/beyond the basics)
-- "Bounty" board
-  - Requests for locates will appear here
-
-![Bounty Board Mockup](images/mockups/bounty-board-mockup.png)
-
-Admin features:
-
-- Landing Page (Admin control panel)
-- Profile Page (Admin)
-  - Stands apart from a user profile
-  - Should contain Organization/staff name and affilation
-- Create Posting
-  - Will allow admins to list identifiers, last location seen, and a discussion pool for tips(?)
-  - Interactive map with reported locations (future/beyond the basics)
-- and more
-
-![Admin Dashboard](images/mockups/admin-dashboard-mockup.png)
 
 ## Risk & Management
 
