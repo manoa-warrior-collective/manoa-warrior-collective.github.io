@@ -31,16 +31,14 @@ Our projected issues for the next stage of development for M3 can be found [here
   - Buttons to report lost items or to browse items
   - Should contain a Sign Up feature at the bottom of the page
 
-![Landing Page Top](images/m2update/landpagem2.png)
-![Landing Page Middle](images/m2update/landingpagem2mid.png)
-![Landing Page Bottom](images/m2update/landingpagem2bot.png)
-
 - Footer
   - Contains locations, dates, and times when the offices are open
   - Contains contact information
   - Contains where to retieve lost items
 
-  ![Footer](images/m2update/footerm2.png)
+![Landing Page Top](images/m2update/landpagem2.png)
+![Landing Page Middle](images/m2update/landingpagem2mid.png)
+![Landing Page Bottom](images/m2update/landingpagem2bot.png)
 
 - Dashboard page
   - Users can see the status of their current lost items
