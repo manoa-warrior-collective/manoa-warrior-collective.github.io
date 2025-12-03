@@ -1,13 +1,22 @@
 ## Contents
 
+- [Overview](#overview)
+  - [Goals](#goals)
 - [Project Deployement](#project-deployment)
 - [Current Progress](#current-progress)
-- [The Rundown](#the-rundown)
-  - [Goals](#goals)
-- [Projected Features](#projected-features)
 - [Risk & Management](#risk-&-mangement)
 - [Team Members](#team-members)
 - [Team Agreement](#team-agreement)
+
+## Overview
+
+The Mānoa Warrior Collective presents Rainbow Reclamation: a projected web application designed to be a virtual lost and found for Mānoa students.
+
+### Goals
+
+Nothing is lost forever. We're here to prove that. Rainbow Reclamation is projected to be an all in one virtual lost and found client. Students, faculty, and staff all have much more important things to worry about (like what flavor of cup noodles will be for dinner) than lost property.
+
+To save you an extra trip to the DMV for that dang ID you lost, the next section will detail how we intend on safekeeping lost items.
 
 ## Project Deployement
 
@@ -82,16 +91,6 @@ Admin features:
 ![Admin Dashboard](images/m2update/adminm2.png)
 
 ## Developer Guide
-
-## The Rundown
-
-The Mānoa Warrior Collective presents Rainbow Reclamation: a projected web application designed to be a virtual lost and found for Mānoa students.
-
-### Goals
-
-Nothing is lost forever. We're here to prove that. Rainbow Reclamation is projected to be an all in one virtual lost and found client. Students, faculty, and staff all have much more important things to worry about (like what flavor of cup noodles will be for dinner) than lost property.
-
-To save you an extra trip to the DMV for that dang ID you lost, the next section will detail how we intend on safekeeping lost items.
 
 ## Risk & Management
 
