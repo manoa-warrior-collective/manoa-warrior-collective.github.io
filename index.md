@@ -4,6 +4,7 @@
   - [Goals](#goals)
 - [Project Deployement](#project-deployment)
 - [Current Progress](#current-progress)
+- [Developer Guide](#developer-guide)
 - [Risk & Management](#risk-&-mangement)
 - [Team Members](#team-members)
 - [Team Agreement](#team-agreement)
@@ -52,9 +53,8 @@ Our projected issues for the next stage of development for M3 can be found [here
 - Dashboard page
   - Users can see the status of their current lost items
   - Users can see items they found themseleves
-  - Creates a button link to your lost item lists
 
-![Dashboard Page](images/updatemockups/userdashboard.png)
+![Dashboard Page](images/m2update/dashboardm2.png)
 
 - Browse Item
   - Shows a page of the user's lost items and check has a claim button to verify item has been retrieved
@@ -91,6 +91,70 @@ Admin features:
 ![Admin Dashboard](images/m2update/adminm2.png)
 
 ## Developer Guide
+
+This section provides information for developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+Download and install PostgreSQL [here](https://www.postgresql.org/download/)
+
+Then create a database using the command:
+
+```
+$  createdb rainbow-reclamation
+```
+
+### Cloning the Repository
+
+Clone the repository
+
+```
+$ git clone https://github.com/manoa-warrior-collective/rainbow-reclamation
+```
+
+After cloning install the necessary dependencies
+
+$ cd rainbow-reclamation
+$ npm install
+
+### Linking to your database
+
+Make a copy of the `sample.env file` and rename it to `.env`, then set the database URL to point to the database you made in the installation step.
+
+```
+DATABASE_URL="postgresql://username:password@localhost:5432/rainbowreclamation"
+```
+
+Change your datasource in `/prisma/schema.prisma` to use the right database url
+
+```
+datasource db {
+  provider = "postgresql"
+  // for local development
+  url      = env("DATABASE_URL")
+  // for Vercel
+  // url       = env("POSTGRES_PRISMA_URL")
+  // directUrl = env("POSTGRES_URL_NON_POOLING")
+}
+```
+
+### ESLint
+
+Run ESlint to check for any errors
+
+```
+$ npm run lint
+```
+
+### Running Locally
+
+To run the webpage locally,
+
+```
+$ npm run dev
+```
+
+The webpage will ran at [http://localhost:3000](http://localhost:3000).
 
 ## Risk & Management
 
