@@ -5,6 +5,7 @@
 - [Project Deployement](#project-deployment)
 - [Current Progress](#current-progress)
 - [Developer Guide](#developer-guide)
+- [Community Feedback](#community-feedback)
 - [Risk & Management](#risk-&-mangement)
 - [Team Members](#team-members)
 - [Team Agreement](#team-agreement)
@@ -192,6 +193,10 @@ The webpage will ran at [http://localhost:3000](http://localhost:3000).
     <td>Discussion, Coding Aid, AI</td>
   </tr>
 </table>
+
+## Community Feedback
+
+We gathered feedback from 5 UH students who tested the deployed application.
 
 ## Team Members
 
