@@ -38,6 +38,15 @@ Our projected issues for the next stage of development for M3 can be found [here
 
 ## User Guide
 
+- Sign in and Sign up page
+  - User are asks to either to sign in or sign up to access:
+    - Report Item
+    - Browse User Dashboard
+
+![Signin Page](images/m3update/signinm3.png)
+
+![Signup Page](images/m3update/signupm3.png)
+
 - Landing page (User)
   - Basic introduction to the site
   - Overview of the website functionalities
@@ -49,49 +58,65 @@ Our projected issues for the next stage of development for M3 can be found [here
   - Contains contact information
   - Contains where to retieve lost items
 
-![Landing Page Top](images/m2update/landpagem2.png)
-![Landing Page Middle](images/m2update/landingpagem2mid.png)
-![Landing Page Bottom](images/m2update/landingpagem2bot.png)
+![Landing Page Top](images/m3update/landingm3-top.png)
+
+![Landing Page Middle](images/m3update/landingm3-mid.png)
+
+![Landing Page Bottom](images/m3update/landingm3-bot.png)
 
 - Dashboard page
   - Users can see the status of their current lost items
   - Users can see items they found themseleves
 
-![Dashboard Page](images/m2update/dashboardm2.png)
+![Dashboard Page](images/m3update/userdashm3.png)
 
 - Browse Item
   - Shows a page of the user's lost items and check has a claim button to verify item has been retrieved
   - Clicking on claim button redirect users to recovery instruction page
 
-![Browse Item](images/m2update/browseitem.png)
+![Browse Item](images/m3update/browseitemm3.png)
 
 - Recovery Instruction Page
   - Contains steps to how retieve lost item
-  - Contains location dates, and times when the offices are open and where to retieve lost items
+  - Contains location, dates, and times when the offices are open and where to retieve lost items
   - Contains contact information
   - Contains important side notes
     - How long the item will be held and any pershiable items will held up to 48 hours
     - Any high values needs an id verification
     - If someone else is picking up the item, they need a written authorization to pickup said item
 
-![Recovery Page Top](images/m2update/recoverym2Top.png)
-![Recovery Page Bottom](images/m2update/recoverym2Bot.png)
+![Recovery Page Top](images/m3update/recoveritem-top.png)
+
+![Recovery Page Bottom](images/m3update/recoveritem-bot.png)
+
+- Submission Instruction Page
+  - Contains steps how to submit lost item
+  - Contains locations, dates, and times when the offices are open and where to submit lost item
+  - Contains contact information
+  - Contains same important side notes as recover page
+
+[Submission Page Top](images/m3update/submissiontop.png)
+
+![Submission Page Middle](images/m3update/submissionmid.png)
+
+![Submission Page Bottom](images/m3update/submissionbot.png)
 
 - Report Page
   - User are able to upload the item name, the description, and a picture
 
-![Report Page](images/m2update/reportm2.png)
+![Report Page](images/m3update/reportm3-top.png)
+
+![Report Page](images/m3update/reportm3-bot.png)
 
 Admin features:
 
 - Admin Dashboard
-  - Contain a list of users
-  - Create new lost item posts
+  - Contain a list of users (work in progress)
   - Analytic data to show usage of website and success rate of finding reported lost items
-  - Manage user account standing
-  - Track current users, find items, and lost items
+  - Manage user account standing (work in progress)
+  - Track current users, find items, and lost items (work in progress)
 
-![Admin Dashboard](images/m2update/adminm2.png)
+![Admin Dashboard](images/m3update/adminm3.png)
 
 ## Developer Guide
 
@@ -198,7 +223,15 @@ The webpage will ran at [http://localhost:3000](http://localhost:3000).
 
 ## Community Feedback
 
-We gathered feedback from 5 UH students who tested the deployed application.
+We gathered feedback from UH students who are in the UH System to test the deployed application.
+
+### Overall Impressions
+
+Testers
+
+### Common Feedback
+
+### Takeaways
 
 ## Team Members
 
