@@ -102,7 +102,7 @@ Our projected issues for the next stage of development for M3 can be found [here
 ![Submission Page Bottom](images/m3update/submissionbot.png)
 
 - Report Page
-  - User are able to upload the item name, the description, and a picture
+  - User are able to upload the item name, the description, a picture, and bounty if user wanted to add reward towards submiting lost item
 
 ![Report Page](images/m3update/reportm3-top.png)
 
@@ -253,7 +253,7 @@ Overall, students responded positively to the web app.
 - Fix functional issues such as:
   - “View all listings” not displaying all items
   - Sign-up button appearing after login
-  - Typographical errors (e.g., “old passord”)
+  - Typographical errors
   - Delayed refresh when new bounties are added
 
 ### Takeaways
