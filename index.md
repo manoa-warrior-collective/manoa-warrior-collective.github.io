@@ -223,15 +223,42 @@ The webpage will ran at [http://localhost:3000](http://localhost:3000).
 
 ## Community Feedback
 
-We gathered feedback from UH students who are in the UH System to test the deployed application.
+We gathered feedback from UH students within the UH System to evaluate the usability, design, and overall experience of the web application. A total of 5 students participated in the feedback survey through Google Forms.
 
 ### Overall Impressions
 
-Testers
+Overall, students responded positively to the web app.
+
+- The app received an average usefulness rating of 4.2 out of 5, indicating it is considered helpful and effective.
+- The design and layout earned an average rating of 4.0 out of 5, showing that most users found it visually acceptable, though with room for improvement.
+- Most respondents expressed that they liked the app or saw strong potential, even if they felt some features still need refinement.
 
 ### Common Feedback
 
+**What users liked most:**
+
+- Easy to access and very user-friendly
+- Simple and intuitive navigation
+- Fast loading and smooth performance, especially on mobile
+- The bounty board concept for lost and found items was viewed as very valuable
+- Being able to view personal listings and use the bounty system
+
+**Suggested improvements:**
+
+- Improve UI consistency
+- Fix broken or non-loading pages, especially the “View Details” page
+- Add clearer explanations of how bounties work and how to claim them
+- Add scam warnings, safety guidelines, and moderation for listings
+- Improve sorting options
+- Fix functional issues such as:
+  - “View all listings” not displaying all items
+  - Sign-up button appearing after login
+  - Typographical errors (e.g., “old passord”)
+  - Delayed refresh when new bounties are added
+
 ### Takeaways
+
+The feedback indicates that the web app has a strong foundation and a clear purpose that users appreciate. Students found the app useful and easy to use, particularly the bounty board feature. Addressing UI polish, bug fixes, clearer instructions, and safety features will significantly improve usability and trust. Overall, testers believe the app is promising and worth continued development.
 
 ## Team Members
 
